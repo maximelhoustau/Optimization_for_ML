@@ -1,0 +1,4 @@
+# Optimization_for_ML
+
+The course is a short introduction to numerical optimization methods, motivated by applications to data science. The course provides some fundamental basis in convex analysis (convex functions, subdifferential, Legendre-Fenchel transform) and fixed point algorithms. The convergence of the celebrated proximal gradient algorithm is established. The notion of dual problem is introduced, and dual methods are provided, such as the method of multipliers and the alternating direction method of multipliers. The LASSO problem and its variants are regarly used in this course for illustration of the main properties.
+Some theoretical results will be admitted without proof for the sake of conciseness. Nevertheless, the course is of methodological kind and most of it follows a theorem/proof spirit.
